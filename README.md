@@ -1,7 +1,3 @@
-Jean-Loïc Mugnier
+IntentGuard Intern
 
-Founder of IntentGuard  
-
-Ethereum Foundation grantee  
-Former Web3 Security Lead at Binance
-
+Architecting the Firewall Layer with IntentGuard and the IPSProtocol
